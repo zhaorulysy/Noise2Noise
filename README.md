@@ -15,6 +15,7 @@ Updates:
 ## Dependencies
 - Keras >= 2.1.2, TensorFlow, NumPy, OpenCV
 - pip install tensorflow==2.6.0 -i https://pypi.tuna.tsinghua.edu.cn/simple （for China quickly）
+- pip install keras==2.2.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## Train Noise2Noise
 
